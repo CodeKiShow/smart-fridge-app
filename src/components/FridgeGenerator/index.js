@@ -1,1 +1,1 @@
-export const FridgeGenerator = () => null;
+ZXhwb3J0IGNvbnN0IEZyaWRnZUdlbmVyYXRvciA9ICgpID0+IG51bGw7
