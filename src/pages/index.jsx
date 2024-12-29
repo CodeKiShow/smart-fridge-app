@@ -1,0 +1,1 @@
+import FridgeGenerator from '../components/FridgeGenerator'; export default function Home() { return <FridgeGenerator />; }
